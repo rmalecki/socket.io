@@ -13,7 +13,7 @@
     ]
   , "repository":{
         "type": "git"
-      , "url": "https://github.com/LearnBoost/socket.io.git"
+      , "url": "https://github.com/rmalecki/socket.io.git"
     }
   , "dependencies": {
         "socket.io-client": "git://github.com/rmalecki/socket.io-client.git#0.9"
